@@ -8,8 +8,7 @@ $$
 det\begin{bmatrix}
 1 & 2 \\
 3 & 4
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{vmatrix}
 1 & 2 \\
 3 & 4
